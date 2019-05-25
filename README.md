@@ -1,4 +1,3 @@
-# Hackerrank
 ---
 layout: post
 title: Hackerrank - 
