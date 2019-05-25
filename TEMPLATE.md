@@ -5,10 +5,8 @@ date:
 categories: Hackerrank
 tags: Hackerrank
 author: liyiyuian
-mathjax: true
 ---
 
-Easy - 
 
 <!--more-->
 
