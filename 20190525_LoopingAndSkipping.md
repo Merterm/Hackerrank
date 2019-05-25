@@ -12,12 +12,12 @@ author: liyiyuian
 
 ## Problem
 
-ur task is to use for loops to display only odd natural numbers from  to .
-Input Format
+Your task is to use for loops to display only odd natural numbers from 1 to 99.
+###Input Format
 There is no input.
-Constraints
+###Constraints
 -
-Output Format
+###Output Format
 1
 3
 5
@@ -27,9 +27,9 @@ Output Format
 .
 .
 99  
-Sample Input
+###Sample Input
 -
-Sample Output
+###Sample Output
 1
 3
 5
@@ -39,7 +39,7 @@ Sample Output
 .
 .
 99  
-Explanation
+###Explanation
 -
 
 
@@ -48,6 +48,9 @@ Explanation
 
 
 ## Code
+
+```BASH
+
 declare -i i
 i=1
 while [ "$i" -le "100"  ]
@@ -55,7 +58,7 @@ do
 echo "$i"
 i=$((i+2))
 done
-
+```
 
 
 
