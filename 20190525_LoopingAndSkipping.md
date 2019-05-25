@@ -13,10 +13,13 @@ author: liyiyuian
 ## Problem
 
 Your task is to use for loops to display only odd natural numbers from 1 to 99.
+
 ### Input Format
 There is no input.
+
 ### Constraints
 -
+
 ### Output Format
 1
 3
@@ -27,8 +30,10 @@ There is no input.
 .
 .
 99  
+
 ### Sample Input
 -
+
 ### Sample Output
 1
 3
@@ -39,12 +44,25 @@ There is no input.
 .
 .
 99  
+
 ### Explanation
 -
 
 
-## Explanation
-
+## Notes
+* declare -i variable is declaring an integer; -a array, -f function; -r readonly
+* condition: 
+	* -eq # equal
+	* -ne # not equal
+	* -lt # less than
+	* -le # less than or equal
+	* -gt # greater than
+	* -ge # greater than or equal
+* increment 
+	* var=$((var+1))
+	* ((var=var+1))
+	* ((var+=1))
+	* ((var++))
 
 
 ## Code
