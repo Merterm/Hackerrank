@@ -13,11 +13,11 @@ author: liyiyuian
 ## Problem
 
 Your task is to use for loops to display only odd natural numbers from 1 to 99.
-###Input Format
+### Input Format
 There is no input.
-###Constraints
+### Constraints
 -
-###Output Format
+### Output Format
 1
 3
 5
@@ -27,9 +27,9 @@ There is no input.
 .
 .
 99  
-###Sample Input
+### Sample Input
 -
-###Sample Output
+### Sample Output
 1
 3
 5
@@ -39,7 +39,7 @@ There is no input.
 .
 .
 99  
-###Explanation
+### Explanation
 -
 
 
