@@ -64,6 +64,24 @@ There is no input.
 	* ((var+=1))
 	* ((var++))
 
+* for loop example:
+```BASH
+for i in 1 2 3 4 5
+do
+	echo "test"
+done
+
+for i in {1..5}
+do
+	echo "test"
+done
+
+for i in {0..10..2}
+do
+	echo "test"
+done
+
+```
 
 ## Code
 

@@ -30,7 +30,8 @@ Your task is to evaluate the expression and display the correct output rounding 
 
 
 ## Notes
-
+"%.3f" -> now many digits remains
+bc l -> execute the equation
 
 
 ## Code

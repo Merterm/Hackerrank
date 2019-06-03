@@ -47,8 +47,24 @@ X is less than Y
 
 
 ## Notes
+### If condition
+if []
+then
+elif[]
+then
+else
+fi
 
-
+### Compare strings 
+==, !=
+### Compare numbers
+[ "$number1" -eq "$number2" ]
+"-eq"
+"-ne"
+"-lt"
+"-le"
+"-gt"
+"-ge"
 
 ## Code
 

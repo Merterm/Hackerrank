@@ -33,6 +33,18 @@ The '4' in the first line indicates that there are four integers whose average i
 
 
 ## Notes
+* Round x to p digits precision with input as command line arguments:
+	* printf "%.*f\n" $p $x
+* Or in a shell pipeline, with input of x on standard input, and p as argument:
+	* echo $x | xargs printf "%.*f\n" $p
+
+* Examples:
+	$ printf '%.*f\n' 0 6.66
+	7
+	$ printf '%.*f\n' 2 6.66
+	6.66
+	$ printf '%.*f\n' 3 6.666666
+	6.667
 
 
 

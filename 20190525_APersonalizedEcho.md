@@ -28,8 +28,9 @@ Welcome Prashant
 
 
 ## Notes
-
-
+read: read stdin
+read -p "The problem to show: " Variable
+remember to use $ to reference the Variable while using it.
 
 ## Code
 
